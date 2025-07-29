@@ -2,21 +2,17 @@
   <h1 align="center">Hi, I am <a href="https://github.com/MarcosAlanya19">Marcos Alanya Pacheco</a> 👋</h1>
 </div>
 
-  <a href="https://github.com/MarcosAlanya19">
-    <img src="https://img.shields.io/badge/GitHub-MarcosAlanya19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/marcosalanya">
     <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Alanya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
+## About Me
 
-## About me
-
-- 👨‍💻 Full Stack Developer con enfoque en **React (frontend)** y **Node.js (backend)**
-- 🚀 Enfocado en crear soluciones **escalables**, **performantes** y con **clean code**
-- 📐 Apasionado por la **arquitectura de software**, patrones de diseño y buenas prácticas
-- 🧠 Estudiante constante de **DDD**, **principios SOLID** y **Clean Architecture**
-- 🧩 Fiel defensor de la filosofía **Composition over Inheritance**
+- 👨‍💻 Full Stack Developer focused on **React (frontend)** and **Node.js (backend)**
+- 🚀 Passionate about building **scalable**, **high-performance** solutions with **clean code**
+- 📐 Enthusiast of **software architecture**, design patterns, and best practices
+- 🧠 Constant learner of **DDD**, **SOLID principles**, and **Clean Architecture**
+- 🧩 Strong advocate of the **Composition over Inheritance** philosophy
 
 ## 🧰 Tech Stack
 
