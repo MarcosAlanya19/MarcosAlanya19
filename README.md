@@ -12,7 +12,6 @@
 - 🚀 Passionate about building **scalable**, **high-performance** solutions with **clean code**
 - 📐 Enthusiast of **software architecture**, design patterns, and best practices
 - 🧠 Constant learner of **DDD**, **SOLID principles**, and **Clean Architecture**
-- 🧩 Strong advocate of the **Composition over Inheritance** philosophy
 
 ## 🧰 Tech Stack
 
