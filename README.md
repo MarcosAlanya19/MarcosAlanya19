@@ -2,8 +2,6 @@
   <h1 align="center">Hi, I am <a href="https://github.com/MarcosAlanya19">Marcos Alanya Pacheco</a> 👋</h1>
 </div>
 
-<img width="1022" height="249" alt="image" src="https://github.com/user-attachments/assets/93000efd-29e9-4232-bab5-a4821797927d" />
-
   <a href="https://github.com/MarcosAlanya19">
     <img src="https://img.shields.io/badge/GitHub-MarcosAlanya19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
