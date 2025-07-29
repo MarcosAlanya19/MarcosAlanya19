@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 align="center">Hi, I am <a href="https://github.com/MarcosAlanya19">Marcos Alanya Pacheco</a> 👋</h1>
+  <h1 align="center">Hi, I am Marcos Alanya Pacheco 👋</h1>
 </div>
 
-  <a href="https://www.linkedin.com/in/marcosalanya">
-    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Alanya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/marcosalanya19/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Alanya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ## About Me
 
